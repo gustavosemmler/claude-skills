@@ -6,6 +6,16 @@ Skills prontas pra deixar o Claude melhor em tarefas do dia a dia no Brasil. Cad
 
 ## Skills disponíveis
 
+### Para devs e consultores Salesforce
+
+| Skill | Pra que serve |
+|---|---|
+| [`salesforce-dev`](skills/salesforce-dev/SKILL.md) | Apex, triggers, LWC, Flows, testes e deploy no padrão sênior: código bulkificado, seguro (sharing, CRUD/FLS), sempre com classe de teste e seguindo o padrão do projeto. Inclui checklist de code review. |
+| [`sfmc-dev`](skills/sfmc-dev/SKILL.md) | Marketing Cloud: SQL no Automation Studio, AMPscript, SSJS, Data Extensions, Data Views e Journey Builder, com as pegadinhas da plataforma (fuso CST, retenção das Data Views, deduplicação). |
+| [`consultoria-entregas`](skills/consultoria-entregas/SKILL.md) | Dia a dia de consultoria: história de usuário → desenho técnico e estimativa, investigação de bug, daily, status report, release notes e mensagens para cliente. |
+
+### Vida, carreira e negócios no Brasil
+
 | Skill | Pra que serve |
 |---|---|
 | [`site-compliance-br`](skills/site-compliance-br/SKILL.md) | Ao criar um site, aplica o checklist de LGPD, cookies, acessibilidade, CDC e identificação da empresa, pra o site não gerar processo. |
